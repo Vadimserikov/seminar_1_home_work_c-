@@ -1,0 +1,15 @@
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/bin/Debug/net6.0/задача_4
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/bin/Debug/net6.0/задача_4.deps.json
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/bin/Debug/net6.0/задача_4.runtimeconfig.json
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/bin/Debug/net6.0/задача_4.dll
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/bin/Debug/net6.0/задача_4.pdb
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.csproj.AssemblyReference.cache
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.AssemblyInfoInputs.cache
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.AssemblyInfo.cs
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.csproj.CoreCompileInputs.cache
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.dll
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/refint/задача_4.dll
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.pdb
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/задача_4.genruntimeconfig.cache
+/Users/vadimserikov/Desktop/seminar_1_home_work/задача_2/задача_4/obj/Debug/net6.0/ref/задача_4.dll
